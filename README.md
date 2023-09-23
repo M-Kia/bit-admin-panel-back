@@ -14,4 +14,4 @@ Then, after going to the created directory, run `npm install` to install depende
 
 Now you can run the development server for this project by running `npm run dev` and use the Front-End of this project.
 
-Also you can run the production version of this project by running `npm run start`.
+Also you can run the production version of this project by running `npm start`.
